@@ -1,0 +1,28 @@
+1- Estudo de cores, crie parágrafos e insira background's com cores e formatos de cores diferentes.
+------------------------------------------------------------------
+2- gradiente, coloque gradiente em algum elemento da sua escolha e explore a propriedade por completo.
+------------------------------------------------------------------
+3- insira títulos e parágrafos de forma organizada e hierarquizada, com estilos de fontes, background, gradiente, bordas, sombras em caixas, largura, preenchimento, magens, cor em texto, sombra em texto e alinhamento de texto.
+------------------------------------------------------------------
+4- estudo de fontes, insira títulos e parágrafos, explore a propriedade fonte.
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust
+depois da metade - determinando o valor do aspecto de uma fonte
+
+******************************************************************
+------------------------------------------------------------------
+5- google fontes, crie parágrafos e insira fontes do google fontes.
+------------------------------------------------------------------
+6- fontes externas, baixe fontes da internet e insira no exercício.
+------------------------------------------------------------------
+7- seletores personalizados, crie títulos e parágrafos e explore os atributos seletores, insira estilos de cor de fundo, fonte, cor de texto, alinhamento de texto.
+------------------------------------------------------------------
+8- pseudo classes, explore o pesudo classes hover utilizando seletores personalizados.
+------------------------------------------------------------------
+9- links, crie links, personalize com estilos e pseudo classes
+------------------------------------------------------------------
+10- modelo de caixa, utilize asa propriedades border, padding, margin, outline, em parágrafos e títulos.
+------------------------------------------------------------------
+11- grouping tags, utilize tags: header, nav, main, section, article, aside e footer, explore a estilização.
+------------------------------------------------------------------
+12- baixe bordas da internet e explore utilizando a propriedade border-image 

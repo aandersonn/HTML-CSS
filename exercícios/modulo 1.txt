@@ -1,0 +1,27 @@
+1- insira um título nível 1 e dois parágrafos
+------------------------------------------------------------------
+2- insira título nível 1 ,parágrafos ,quebras de linhas, símbolos : &lt;, &gt;, &reg, &copy, &trade, &euro, &pound, &yen, &cent, &delta  e emojis: &#x1f608
+
+------------------------------------------------------------------
+3- insira imagens de tamanhos diferentes
+
+------------------------------------------------------------------
+4- insira favicon
+------------------------------------------------------------------
+5- insira todos os títulos para demonstrar a hierarquia
+
+------------------------------------------------------------------
+6- formatação de texto com as tags: b, strong, em, i, mark, small, del, ins, sup, sub.
+
+------------------------------------------------------------------
+7- citações e código: code, blockquote, abbr
+
+------------------------------------------------------------------
+8- construa listas: ordenadas, não ordenadas e definição
+
+------------------------------------------------------------------
+9- insira link's
+
+
+------------------------------------------------------------------
+10- construa imagens dinâmicas: picture, source, audio, video
