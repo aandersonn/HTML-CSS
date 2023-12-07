@@ -6,8 +6,8 @@
 ------------------------------------------------------------------
 4- estudo de fontes, insira títulos e parágrafos, explore a propriedade fonte.
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust
-depois da metade - determinando o valor do aspecto de uma fonte
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-style
+antes da metade - fontes variáveis
 
 ******************************************************************
 ------------------------------------------------------------------
