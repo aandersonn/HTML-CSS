@@ -6,8 +6,8 @@
 ------------------------------------------------------------------
 4- estudo de fontes, insira títulos e parágrafos, explore a propriedade fonte.
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/font-style
-antes da metade - fontes variáveis
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-synthesis-small-caps
+inicio
 
 ******************************************************************
 ------------------------------------------------------------------
