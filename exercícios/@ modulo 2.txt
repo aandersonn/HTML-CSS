@@ -6,8 +6,7 @@
 ------------------------------------------------------------------
 4- estudo de fontes, insira títulos e parágrafos, explore a propriedade fonte.
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates
-antes da metade - definição formal
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric
 
 ******************************************************************
 ------------------------------------------------------------------
