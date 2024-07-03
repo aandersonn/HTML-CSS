@@ -8,14 +8,22 @@
 <body>
     <h1>Cadastro de formulário</h1>
     <form action="cadastro.php" method="get">
-        <p>
-            <label for="iEmail">E-mail</label>
-            <input type="email" name="email" id="iEmail">
-        </p>
-        <p>
-            <label for="iTel">Telefone</label>
-            <input type="tel" name="tel" id="iTel" autocomplete="tel" required pattern="$">
-        </p>
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <p>
+                <label for="iName">Nome</label>
+                <input type="text" name="nome" id="iName" minlength="5" maxlength="20" required>
+            </p>
+            <p>
+                <label for="iEmail">E-mail</label>
+                <input type="email" name="email" id="iEmail">
+            </p>
+            <p>
+                <label for="iTel">Telefone</label>
+                <input type="tel" name="tel" id="iTel" autocomplete="tel" required pattern="^\(\d{2}\)\[0-9]{4}-[0-9]{4}$" placeholder="(xx)xxxxx-xxxx">
+            </p>
+        </fieldset>
+
         <p>
             <input type="submit" value="Enviar">
             <input type="submit" value="Limpar">
