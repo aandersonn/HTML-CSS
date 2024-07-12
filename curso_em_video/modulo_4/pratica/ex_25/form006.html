@@ -8,6 +8,20 @@
 <body>
     <h1>Exemplo de formulário</h1>
     <form action="cadastro.php" method="get" autocomplete="on">
+        <p>
+            <label for="iCor">Cor: </label>
+            <input type="color" name="cor" id="iCor" value="#00ff00">
+        </p>
+
+        <p>
+            <label for="iNivel">Nível de satisfação: </label>
+            <input type="range" name="nivel" id="iNivel" value="5">
+        </p>
+
+        <p>
+            <label for="iFato">Foto do perfil: </label>
+            <input type="file" name="foto" id="iFato">
+        </p>
 
         <p>
             <input type="submit" value="Enviar">
