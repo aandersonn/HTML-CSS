@@ -4,4 +4,24 @@ body > .flex-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    flex-flow: wrap;
+
+}
+
+.flex-container > .flex-item {
+    order: 1;
+    border: 2px solid black;
+    
+}
+
+#item-1 {
+    align-self: first flex-end;
+}
+
+#item-2 {
+    
+}
+
+#item-3 {
+    
 }
