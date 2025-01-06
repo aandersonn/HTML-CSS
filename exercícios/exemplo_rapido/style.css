@@ -1,27 +1,18 @@
 @charset "UTF-8";
 
-body > .flex-container {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: bisque;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    flex-flow: wrap;
-
+    flex-flow: row wrap;
 }
 
-.flex-container > .flex-item {
-    order: 1;
-    border: 2px solid black;
-    
-}
-
-#item-1 {
-    align-self: first flex-end;
-}
-
-#item-2 {
-    
-}
-
-#item-3 {
-    
+.itens {
+    background-color: aqua;
+    flex: auto;
 }
